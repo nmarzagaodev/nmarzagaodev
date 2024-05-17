@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=compact&langs_count=100&theme=dark)
 
 
-STATS FROM [HERE](https://github.com/anuraghazra/github-readme-stats)
+- STATS FROM [HERE](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
