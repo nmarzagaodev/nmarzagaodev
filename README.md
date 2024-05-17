@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=donut)](https://github.com/nmarzagaodev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=donut-vertical)](https://github.com/nmarzagaodev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=pie)](https://github.com/nmarzagaodev/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=compact&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=donut&langs_count=8)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=donut-vertical&langs_count=8)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=pie&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&hide_progress=true&langs_count=8)
 
 
 <!--
