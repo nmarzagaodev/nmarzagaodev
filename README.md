@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome!
 
 - I love working on classic coding problems, which you can find here...
 
