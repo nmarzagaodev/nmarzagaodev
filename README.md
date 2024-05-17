@@ -6,7 +6,7 @@
 
 - And I'm a nerd when it comes to learning new programming languages...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=compact&langs_count=100&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagaodev&layout=compact&langs_count=100&theme=dark)
 
 
 STATS FROM [HERE](https://github.com/anuraghazra/github-readme-stats)
