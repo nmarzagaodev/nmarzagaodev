@@ -2,7 +2,7 @@
 
 - I love working on classic coding problems, which you can find here...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nmarzagaodev&repo=coding-problems&theme=dark)](https://github.com/nmarzagaodev/coding-problems)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nmarzagaodev&repo=coding-problems&theme=dark)](https://github.com/nmarzagaodev/coding-problems-general)
 
 - And I'm a nerd when it comes to learning new programming languages...
 
